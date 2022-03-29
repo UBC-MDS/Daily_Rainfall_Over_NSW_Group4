@@ -1,4 +1,4 @@
-# DSCI 525 - Web and Cloud Computing Group 4
+# DSCI 525 - Web and Cloud Computing Group 4: Daily Rainfall Over NSW
 
 This repo contains the data ETL script for downloading the [Daily rainfall over NSW, Australia](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681) 
 data from figshare using the API in Python which can be found [here](https://docs.figshare.com/).
