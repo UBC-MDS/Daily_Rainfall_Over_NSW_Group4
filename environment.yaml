@@ -1,0 +1,20 @@
+##Setup environment for Daily_Rainfall_Over_NSW
+##conda env create -f environment.yaml
+
+name: 'daily_rainfall_over_nsw'
+channels:
+  - conda-forge
+  - defaults
+  - plotly
+dependencies:
+  - ipykernel
+  - ipython>=7.15
+  - gunicorn
+  - scipy
+  - pandas
+  - numpy
+  - plotly
+  - pip
+  - pip:
+    - dash
+    - dash_bootstrap_components
