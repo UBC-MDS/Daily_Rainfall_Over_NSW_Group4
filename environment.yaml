@@ -1,7 +1,7 @@
 ##Setup environment for Daily_Rainfall_Over_NSW
 ##conda env create -f environment.yaml
 
-name: 'daily_rainfall_over_nsw'
+name: 'daily-rainfall-group4'
 channels:
   - conda-forge
   - defaults
@@ -9,12 +9,13 @@ channels:
 dependencies:
   - ipykernel
   - ipython>=7.15
-  - gunicorn
   - scipy
   - pandas
   - numpy
   - plotly
+  - matplotlib
   - pip
+  - requests
   - pip:
-    - dash
-    - dash_bootstrap_components
+    - pyarrow
+    - rpy2_arrow
