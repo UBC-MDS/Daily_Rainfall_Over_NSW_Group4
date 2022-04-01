@@ -32,7 +32,7 @@ Python Packages:
 Run this following in your terminal from the downloaded repo to setup Python environment:
 ```sh
 $ conda env create -f environment.yaml
-$ conda activate daily_rainfall_over_nsw
+$ conda activate daily-rainfall-group4
 ```
 
 - [R](https://cran.r-project.org/mirrors.html) / [RStudio](https://www.rstudio.com/products/rstudio/download/)
