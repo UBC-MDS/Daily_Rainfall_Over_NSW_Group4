@@ -3,9 +3,16 @@
 This repo contains the data ETL script for downloading the [Daily rainfall over NSW, Australia](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681) 
 data from figshare using the API in Python which can be found [here](https://docs.figshare.com/).
 
-The Daily rainfall data contains modelled and observed daily rainfall data over NSW, Australia from 1889 to 2014.
-
+This project aims to build and deploy Ensemble Machine Learning models in the cloud to predict daily rainfall in Australia on a large dataset (~6 GB), where features are outputs of different climate models and the target is the actual rainfall observation. The Daily rainfall data contains modelled and observed daily rainfall data over NSW, Australia from 1889 to 2014.
 The downloaded data will be stored in /data.
+
+This project includes four milestones as described below:
+
+Milestone 1: Getting the data from web using API, processing it and converting it to an efficient file format
+
+Milestone 2: Moving the data to cloud, setting up the infrastructure in cloud and doing the ML model
+
+
 
 # Instructions:
 The ETL and data EDA scripts (jupyter notebook) can be found [here](https://github.com/UBC-MDS/Daily_Rainfall_Over_NSW_Group4/tree/main/notebooks)
