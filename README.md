@@ -8,9 +8,9 @@ The downloaded data will be stored in /data.
 
 This project includes four milestones as described below:
 
-Milestone 1: Getting the data from web using API, processing it and converting it to an efficient file format
+Milestone 1: Getting the data from web using API, processing it and converting it to an efficient file format.
 
-Milestone 2: Moving the data to cloud, setting up the infrastructure in cloud and doing the ML model
+Milestone 2: Moving the data to cloud, setting up the infrastructure in cloud and doing the ML model.
 
 
 
