@@ -12,6 +12,10 @@ Milestone 1: Getting the data from web using API, processing it and converting i
 
 Milestone 2: Moving the data to cloud, setting up the infrastructure in cloud and doing the ML model.
 
+Milestone 3: Set up spark cluster and develop a machine learning model to deploy in the cloud for the milestone 4.
+
+Milestone 4: Deploy the machine learning model.
+
 
 
 # Instructions:
